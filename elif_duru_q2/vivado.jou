@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Wed Dec 21 19:20:12 2022
+# Process ID: 40056
+# Current directory: C:/Users/fthyl/OneDrive/Masaüstü/elif/elif_duru_q2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent41748 C:\Users\fthyl\OneDrive\Masaüstü\elif\elif_duru_q2\quesiton_2_midterm_2.xpr
+# Log file: C:/Users/fthyl/OneDrive/Masaüstü/elif/elif_duru_q2/vivado.log
+# Journal file: C:/Users/fthyl/OneDrive/Masaüstü/elif/elif_duru_q2\vivado.jou
+# Running On: LAPTOP-STQDP30M, OS: Windows, CPU Frequency: 1190 MHz, CPU Physical cores: 4, Host memory: 8319 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/fthyl/OneDrive/Masaüstü/elif/elif_duru_q2/quesiton_2_midterm_2.xpr
+update_compile_order -fileset sources_1
